@@ -123,10 +123,10 @@ I’m also an **AI-forward developer**, integrating LLMs and AI-powered workflow
 
 ## ▍Certifications
 
-<div align="center">
-  <img src="./assets/cert-react-native.png" width="35%" style="max-width: 200px;" />
-  <img src="./assets/cert-flutter.png" width="35%" style="max-width: 200px;" />
-</div>
+<p align="center">
+  <img src="./assets/cert-react-native.png" alt="Certification" width="220" />
+  <img src="./assets/cert-flutter.png" alt="Certification" width="220" />
+</p>
 
 ---
 
