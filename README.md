@@ -37,70 +37,103 @@ I’m also an **AI-forward developer**, integrating LLMs and AI-powered workflow
 <table>
   <tr>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=react" width="42" height="42" />
-      <br />React Native
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+      </div>
+      React Native
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=flutter" width="42" height="42" />
-      <br />Flutter
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/>
+      </div>
+      Flutter
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=swift" width="42" height="42" />
-      <br />Swift
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=swift" width="40" height="40"/>
+      </div>
+      Swift
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="42" height="42" />
-      <br />Kotlin
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/>
+      </div>
+      Kotlin
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=ts" width="42" height="42" />
-      <br />TypeScript
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+      </div>
+      TypeScript
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=js" width="42" height="42" />
-      <br />JavaScript
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+      </div>
+      JavaScript
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=dart" width="42" height="42" />
-      <br />Dart
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=dart" width="40" height="40"/>
+      </div>
+      Dart
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=java" width="42" height="42" />
-      <br />Java
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+      </div>
+      Java
     </td>
   </tr>
+
   <tr>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=firebase" width="42" height="42" />
-      <br />Firebase
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
+      </div>
+      Firebase
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=supabase" width="42" height="42" />
-      <br />Supabase
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40"/>
+      </div>
+      Supabase
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" />
-      <br />AWS
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
+      </div>
+      AWS
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" />
-      <br />PostgreSQL
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
+      </div>
+      PostgreSQL
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" />
-      <br />MongoDB
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+      </div>
+      MongoDB
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
-      <br />MySQL
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+      </div>
+      MySQL
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=git" width="42" height="42" />
-      <br />Git
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+      </div>
+      Git
     </td>
     <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=docker" width="42" height="42" />
-      <br />Docker
+      <div style="height:60px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
+      </div>
+      Docker
     </td>
   </tr>
 </table>
@@ -124,8 +157,8 @@ I’m also an **AI-forward developer**, integrating LLMs and AI-powered workflow
 ## ▍Certifications
 
 <div align="center">
-  <img src="./assets/cert-react-native.png" width="35%" style="max-width: 200px;" />
-  <img src="./assets/cert-flutter.png" width="35%" style="max-width: 200px;" />
+  <img src="./assets/cert-react-native.png" width="35%" style="max-width: 180px;" />
+  <img src="./assets/cert-flutter.png" width="35%" style="max-width: 180px;" />
 </div>
 
 ---
