@@ -156,10 +156,20 @@ I’m also an **AI-forward developer**, integrating LLMs and AI-powered workflow
 
 ## ▍Certifications
 
-<div align="center">
-  <img src="./assets/cert-react-native.png" width="35%" style="max-width: 180px;" />
-  <img src="./assets/cert-flutter.png" width="35%" style="max-width: 180px;" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/cert-react-native.png" width="75%" style="max-width: 200px;" />
+      <br/>
+      <sub><b>React Native Developer</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/cert-flutter.png" width="75%" style="max-width: 200px;" />
+      <br/>
+      <sub><b>Flutter Developer</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
