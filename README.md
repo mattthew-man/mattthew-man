@@ -160,16 +160,12 @@ I'm an **AI-forward engineer**, actively integrating LLMs, on-device ML models, 
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.credly.com/badges/455caff5-94a8-4fd8-807c-32e63044c654/public_url" target="_blank">
-        <img src="https://images.credly.com/badges/455caff5-94a8-4fd8-807c-32e63044c654/image.png" width="150" height="150" alt="React Native Developer"/>
-      </a>
+      <img src="public/cert-react-native.png" width="200" alt="React Native Developer"/>
       <br/>
       <sub><b>React Native Developer</b></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.credly.com/badges/f6a8fb63-b79a-4963-bd5b-2c76b99f7cdf/public_url" target="_blank">
-        <img src="https://images.credly.com/badges/f6a8fb63-b79a-4963-bd5b-2c76b99f7cdf/image.png" width="150" height="150" alt="Flutter Developer"/>
-      </a>
+      <img src="public/cert-flutter.png" width="200" alt="Flutter Developer"/>
       <br/>
       <sub><b>Flutter Developer</b></sub>
     </td>
